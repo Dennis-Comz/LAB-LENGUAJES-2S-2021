@@ -1,0 +1,14 @@
+body{
+    height: 100%;
+    width: 100%;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    background-image: linear-gradient(to right top, #053736, #006451, #009357, #4dc148, #a8eb12);
+    color: white;
+}
+nav h1{
+    font-size: 70px;
+}
+div{
+    margin-top: 5%;
+}
